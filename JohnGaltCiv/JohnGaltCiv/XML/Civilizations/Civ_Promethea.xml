@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/15/2013 11:39:27 AM -->
+<GameData>
+	<Civilizations>
+		<Row>
+			<Type>CIVILIZATION_PROMETHEA</Type>
+			<Description>TXT_KEY_CIV_PROMETHEA_DESC</Description>
+			<ShortDescription>TXT_KEY_CIV_PROMETHEA_SHORT_DESC</ShortDescription>
+			<Adjective>TXT_KEY_CIV_PROMETHEA_ADJECTIVE</Adjective>
+			<CivilopediaTag>TXT_KEY_CIV5_PROMETHEA</CivilopediaTag>
+			<DefaultPlayerColor>PLAYERCOLOR_PROMETHEA</DefaultPlayerColor>
+			<ArtDefineTag>ART_DEF_CIVILIZATION_AMERICA</ArtDefineTag>
+			<ArtStyleType>ARTSTYLE_EUROPEAN</ArtStyleType>
+			<ArtStyleSuffix>_EURO</ArtStyleSuffix>
+			<ArtStylePrefix>EUROPEAN</ArtStylePrefix>
+			<PortraitIndex>0</PortraitIndex>
+			<IconAtlas>CIV_COLOR_ATLAS_PROMETHEA</IconAtlas>
+			<AlphaIconAtlas>CIV_ALPHA_ATLAS_PROMETHEA</AlphaIconAtlas>
+			<MapImage>Rapture_map.dds</MapImage>
+			<DawnOfManQuote>TXT_KEY_CIV5_DAWN_PROMETHEA_TEXT</DawnOfManQuote>
+			<DawnOfManImage>DOM_Rapture.dds</DawnOfManImage>
+		</Row>
+	</Civilizations>
+	<Civilization_FreeBuildingClasses>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<BuildingClassType>BUILDINGCLASS_PALACE</BuildingClassType>
+		</Row>
+	</Civilization_FreeBuildingClasses>
+	<Civilization_FreeTechs>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<TechType>TECH_AGRICULTURE</TechType>
+		</Row>
+	</Civilization_FreeTechs>
+	<Civilization_FreeUnits>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<UnitClassType>UNITCLASS_SETTLER</UnitClassType>
+			<Count>1</Count>
+			<UnitAIType>UNITAI_SETTLE</UnitAIType>
+		</Row>
+	</Civilization_FreeUnits>
+	<Civilization_Leaders>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<LeaderheadType>LEADER_GALT</LeaderheadType>
+		</Row>
+	</Civilization_Leaders>
+	<Civilization_Religions>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<ReligionType>RELIGION_SHINTO</ReligionType>
+		</Row>
+	</Civilization_Religions>
+	<Civilization_Start_Along_Ocean>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<StartAlongOcean>true</StartAlongOcean>
+		</Row>
+	</Civilization_Start_Along_Ocean>
+	<Civilization_SpyNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PROMETHEA_0</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PROMETHEA_1</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PROMETHEA_2</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PROMETHEA_3</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PROMETHEA_4</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PROMETHEA_5</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PROMETHEA_6</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PROMETHEA_7</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PROMETHEA_8</SpyName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<SpyName>TXT_KEY_SPY_NAME_PROMETHEA_9</SpyName>
+		</Row>
+	</Civilization_SpyNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_SPY_NAME_PROMETHEA_0">
+			<Text>Dagny Taggart</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PROMETHEA_1">
+			<Text>Pierre Gobbi</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PROMETHEA_2">
+			<Text>Nina Carnegie</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PROMETHEA_3">
+			<Text>Bill McDonagh</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PROMETHEA_4">
+			<Text>Albert Milonakis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PROMETHEA_5">
+			<Text>Anya Andersdotter</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PROMETHEA_6">
+			<Text>Kyburz</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PROMETHEA_7">
+			<Text>Dieter Sonnekalb</Text>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PROMETHEA_8">
+			<Text>Diane McClintock</Text>
+			<Gender>feminine</Gender>
+		</Row>
+		<Row Tag="TXT_KEY_SPY_NAME_PROMETHEA_9">
+			<Text>Sullivan</Text>
+		</Row>
+	</Language_en_US>
+	<PlayerColors>
+		<Row>
+			<Type>PLAYERCOLOR_PROMETHEA</Type>
+			<PrimaryColor>COLOR_PLAYER_PROMETHEA_ICON</PrimaryColor>
+			<SecondaryColor>COLOR_PLAYER_PROMETHEA_BACKGROUND</SecondaryColor>
+			<TextColor>COLOR_PLAYER_WHITE_TEXT</TextColor>
+		</Row>
+	</PlayerColors>
+	<Colors>
+		<Row>
+			<Type>COLOR_PLAYER_PROMETHEA_ICON</Type>
+			<Red>1</Red>
+			<Green>0.6627450980392157</Green>
+			<Blue>0.0509803921568627</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+		<Row>
+			<Type>COLOR_PLAYER_PROMETHEA_BACKGROUND</Type>
+			<Red>1</Red>
+			<Green>0.9568627450980392</Green>
+			<Blue>0.6823529411764706</Blue>
+			<Alpha>1</Alpha>
+		</Row>
+	</Colors>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CIV_PROMETHEA_ADJECTIVE">
+			<Text>Promethean</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PROMETHEA_DESC">
+			<Text>United States of Promethea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV_PROMETHEA_SHORT_DESC">
+			<Text>Promethea</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CIV5_DAWN_PROMETHEA_TEXT">
+			<Text>You actually made it this far?  Congrats.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

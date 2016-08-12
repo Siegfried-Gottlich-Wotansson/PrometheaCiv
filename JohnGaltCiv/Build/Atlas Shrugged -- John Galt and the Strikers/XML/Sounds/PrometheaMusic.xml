@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 1/3/2014 6:12:17 PM -->
+	<GameData>
+		<Audio_Sounds>
+			<Row>
+				<SoundID>SND_LEADER_MUSIC_GALT_PEACE</SoundID>
+				<Filename>Galt_Peace</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+			<Row>
+				<SoundID>SND_LEADER_MUSIC_GALT_WAR</SoundID>
+				<Filename>Galt_War</Filename>
+				<LoadType>DynamicResident</LoadType>
+			</Row>
+		</Audio_Sounds>
+		<Audio_2DSounds>
+			<Row>
+				<ScriptID>AS2D_LEADER_MUSIC_GALT_PEACE</ScriptID>
+				<SoundID>SND_LEADER_MUSIC_GALT_PEACE</SoundID>
+				<SoundType>GAME_MUSIC</SoundType>
+				<MinVolume>60</MinVolume>
+				<MaxVolume>60</MaxVolume>
+				<IsMusic>true</IsMusic>
+			</Row>
+			<Row>
+				<ScriptID>AS2D_LEADER_MUSIC_GALT_WAR</ScriptID>
+				<SoundID>SND_LEADER_MUSIC_GALT_WAR</SoundID>
+				<SoundType>GAME_MUSIC</SoundType>
+				<MinVolume>60</MinVolume>
+				<MaxVolume>60</MaxVolume>
+				<IsMusic>true</IsMusic>
+			</Row>
+		</Audio_2DSounds>
+	</GameData>

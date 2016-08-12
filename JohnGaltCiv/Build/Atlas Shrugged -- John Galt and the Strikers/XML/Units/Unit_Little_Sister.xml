@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/15/2013 11:45:32 AM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_GREAT_GENERAL</Class>
+			<Type>UNIT_SISTER</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_GENERAL</DefaultUnitAI>
+			<Description>Little Sister</Description>
+			<Civilopedia>Little Sisters are young girls who have been genetically altered and mentally conditioned to reclaim ADAM from the corpses around Rapture. Little Sisters are almost always accompanied by a Big Daddy. They are almost completely immune to damage and have no offensive abilities. Attacking them, however, will incur the wrath of their protectors.</Civilopedia>
+			<Strategy>Heals adjacent units and recieves movement points from units it stacks with. +15% Combat Bonus to stacked units.</Strategy>
+			<Help>Rapture's unique unit replacing the Great General. Heals adjacent units and recieves extra movement points when stacked with a unit with more movement than it. Stacked units recieve a +15% Combat Bonus.</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_GENERAL</UnitArtInfo>
+			<IconAtlas>CIV_COLOR_ATLAS_PROMETHEA</IconAtlas>
+			<UnitFlagAtlas>CIV_ALPHA_ATLAS_PROMETHEA</UnitFlagAtlas>
+			<UnitFlagIconOffset>2</UnitFlagIconOffset>
+			<PortraitIndex>2</PortraitIndex>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<UnitAIType>UNITAI_GENERAL</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Builds>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<BuildType>BUILD_CITADEL</BuildType>
+		</Row>
+	</Unit_Builds>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<PromotionType>PROMOTION_ADAM</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<PromotionType>PROMOTION_GREAT_GENERAL</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Unit_UniqueNames>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<UniqueName>Celia</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<UniqueName>Mary</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<UniqueName>Annabelle</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<UniqueName>Vera</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<UniqueName>Lily</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<UniqueName>Margaret</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<UniqueName>Sophia</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<UniqueName>Eleanor</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<UniqueName>Beatrice</UniqueName>
+		</Row>
+		<Row>
+			<UnitType>UNIT_SISTER</UnitType>
+			<UniqueName>Moira</UniqueName>
+		</Row>
+	</Unit_UniqueNames>
+	<UnitPromotions>
+		<!--Earnable Promotions-->
+		<Row>
+			<Type>PROMOTION_ADAM</Type>
+			<Description>Adam Source</Description>
+			<Help>Heals adjacent units.</Help>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<EnemyHealChange>15</EnemyHealChange>
+			<NeutralHealChange>15</NeutralHealChange>
+			<FriendlyHealChange>15</FriendlyHealChange>
+			<AdjacentTileHealChange>15</AdjacentTileHealChange>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_MEDIC_I</PediaEntry>
+		</Row>
+	</UnitPromotions>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<UnitClassType>UNITCLASS_GREAT_GENERAL</UnitClassType>
+			<UnitType>UNIT_SISTER</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+</GameData>

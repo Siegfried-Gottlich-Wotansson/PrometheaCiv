@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 8/9/2016 1:52:54 PM -->
+<GameData>
+  <!-- TODO: Insert table creation example here. -->
+ 
+  <!-- TODO: Insert table data example here.-->
+  
+  <!-- Enter your Game Data here. -->
+	<Units>
+		<Row>
+			<Class>UNITCLASS_GREAT_MERCHANT</Class>
+			<Type>UNIT_INDUSTRIALIST</Type>
+			<Cost>-1</Cost>
+			<Moves>2</Moves>
+			<Special>SPECIALUNIT_PEOPLE</Special>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_MERCHANT</DefaultUnitAI>
+			<Description>Industrialist</Description>
+			<Civilopedia>Industrialists are genetically enhanced human beings who have had their skin and organs grafted into an enormous diving suit. Their primary purpose is to protect Little Sisters while they escort them around Rapture.[NEWLINE][NEWLINE]Big Daddies communicate by haunting sounds similar to that of whale calls. For easier interpretation, production model Big Daddies have a mind controlling, bio-luminescent chemical substance which was filled into the helmet to display what state of emotion or mind that it is in. Big Daddy helmets have three light colors: green indicates the Big Daddy is hypnotized and friendly, yellow indicates awareness but indifference to his environment, and red indicates rage towards assailants. If the first few attempts to drive away potential threats prove futile, Big Daddies will become enraged.</Civilopedia>
+			<Strategy>Powerful infantry unit of the late game which fights well when embarked and recieves large benefits when stacked with a Great General. Weakens adjacent enemy units.</Strategy>
+			<Help>Promethea's unique unit replacing the Great Merchant.</Help>
+			<AdvancedStartCost>-1</AdvancedStartCost>
+			<WorkRate>1</WorkRate>
+			<CombatLimit>0</CombatLimit>
+			<UnitArtInfo>ART_DEF_UNIT_MERCHANT</UnitArtInfo>
+			<IconAtlas>CIV_COLOR_ATLAS_PROMETHEA</IconAtlas>
+			<UnitFlagAtlas>CIV_ALPHA_ATLAS_PROMETHEA</UnitFlagAtlas>
+			<UnitFlagIconOffset>2</UnitFlagIconOffset>
+			<PortraitIndex>2</PortraitIndex>
+			<MoveRate>GREAT_PERSON</MoveRate>
+		</Row>
+	</Units>
+</GameData>

@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/15/2013 2:41:20 PM -->
+<GameData>
+	<Civilization_CityNames>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA1</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA2</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA3</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA4</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA5</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA6</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA7</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA8</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA9</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA10</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA11</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA12</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA13</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA14</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA15</CityName>
+		</Row>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<CityName>TXT_KEY_CITY_NAME_PROMETHEA16</CityName>
+		</Row>
+	</Civilization_CityNames>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA1">
+			<Text>Atlantis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA2">
+			<Text>Valhalla</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA3">
+			<Text>Minerva</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA4">
+			<Text>Anconia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA5">
+			<Text>Prometheus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA6">
+			<Text>Neptune</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA7">
+			<Text>Optimus</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA8">
+			<Text>Persephone</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA9">
+			<Text>Apollonia</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA10">
+			<Text>Athenae</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA11">
+			<Text>Mulligan</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA12">
+			<Text>Apollo</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA13">
+			<Text>Atlantis</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA14">
+			<Text>New Ilium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA15">
+			<Text>Elysium</Text>
+		</Row>
+		<Row Tag="TXT_KEY_CITY_NAME_PROMETHEA16">
+			<Text>Adonis</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

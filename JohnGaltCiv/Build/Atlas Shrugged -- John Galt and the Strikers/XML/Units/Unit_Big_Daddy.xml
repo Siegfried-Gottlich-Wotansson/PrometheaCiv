@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/15/2013 11:45:06 AM -->
+<GameData>
+	<Units>
+		<Row>
+			<Class>UNITCLASS_MARINE</Class>
+			<Type>UNIT_DADDY</Type>
+			<PrereqTech>TECH_PENICILIN</PrereqTech>
+			<Combat>65</Combat>
+			<Cost>400</Cost>
+			<Moves>2</Moves>
+			<CombatClass>UNITCOMBAT_GUN</CombatClass>
+			<Domain>DOMAIN_LAND</Domain>
+			<DefaultUnitAI>UNITAI_DEFEND</DefaultUnitAI>
+			<Description>Big Daddy</Description>
+			<Civilopedia>Big Daddies are genetically enhanced human beings who have had their skin and organs grafted into an enormous diving suit. Their primary purpose is to protect Little Sisters while they escort them around Rapture.[NEWLINE][NEWLINE]Big Daddies communicate by haunting sounds similar to that of whale calls. For easier interpretation, production model Big Daddies have a mind controlling, bio-luminescent chemical substance which was filled into the helmet to display what state of emotion or mind that it is in. Big Daddy helmets have three light colors: green indicates the Big Daddy is hypnotized and friendly, yellow indicates awareness but indifference to his environment, and red indicates rage towards assailants. If the first few attempts to drive away potential threats prove futile, Big Daddies will become enraged.</Civilopedia>
+			<Strategy>Powerful infantry unit of the late game which fights well when embarked and recieves large benefits when stacked with a Great General. Weakens adjacent enemy units.</Strategy>
+			<Help>Rapture's unique unit replacing the Marine. Combat Bonus while stacked with a Little Sister is doubled. Adjacent enemy units suffer a -15% Combat Penalty.</Help>
+			<MilitarySupport>true</MilitarySupport>
+			<MilitaryProduction>true</MilitaryProduction>
+			<Pillage>true</Pillage>
+			<IgnoreBuildingDefense>true</IgnoreBuildingDefense>
+			<AdvancedStartCost>40</AdvancedStartCost>
+			<XPValueAttack>3</XPValueAttack>
+			<XPValueDefense>3</XPValueDefense>
+			<UnitArtInfo>ART_DEF_UNIT_MARINE</UnitArtInfo>
+			<UnitFlagAtlas>CIV_ALPHA_ATLAS_PROMETHEA</UnitFlagAtlas>
+			<UnitFlagIconOffset>1</UnitFlagIconOffset>
+			<IconAtlas>CIV_COLOR_ATLAS_PROMETHEA</IconAtlas>
+			<PortraitIndex>3</PortraitIndex>
+		</Row>
+	</Units>
+	<Unit_AITypes>
+		<Row>
+			<UnitType>UNIT_DADDY</UnitType>
+			<UnitAIType>UNITAI_ATTACK</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DADDY</UnitType>
+			<UnitAIType>UNITAI_DEFENSE</UnitAIType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DADDY</UnitType>
+			<UnitAIType>UNITAI_EXPLORE</UnitAIType>
+		</Row>
+	</Unit_AITypes>
+	<Unit_Flavors>
+		<Row>
+			<UnitType>UNIT_DADDY</UnitType>
+			<FlavorType>FLAVOR_OFFENSE</FlavorType>
+			<Flavor>23</Flavor>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DADDY</UnitType>
+			<FlavorType>FLAVOR_DEFENSE</FlavorType>
+			<Flavor>20</Flavor>
+		</Row>
+	</Unit_Flavors>
+	<Unit_FreePromotions>
+		<Row>
+			<UnitType>UNIT_DADDY</UnitType>
+			<PromotionType>PROMOTION_AMPHIBIOUS</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DADDY</UnitType>
+			<PromotionType>PROMOTION_EMBARKED_SIGHT</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DADDY</UnitType>
+			<PromotionType>PROMOTION_DEFENSIVE_EMBARKATION</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DADDY</UnitType>
+			<PromotionType>PROMOTION_BIG_DADDY</PromotionType>
+		</Row>
+		<Row>
+			<UnitType>UNIT_DADDY</UnitType>
+			<PromotionType>PROMOTION_BUBBLES</PromotionType>
+		</Row>
+	</Unit_FreePromotions>
+	<Civilization_UnitClassOverrides>
+		<Row>
+			<CivilizationType>CIVILIZATION_PROMETHEA</CivilizationType>
+			<UnitClassType>UNITCLASS_MARINE</UnitClassType>
+			<UnitType>UNIT_DADDY</UnitType>
+		</Row>
+	</Civilization_UnitClassOverrides>
+	<UnitPromotions>
+		<Row>
+			<Type>PROMOTION_BUBBLES</Type>
+			<Description>Mr. Bubbles</Description>
+			<Help>Adjacent enemies suffer a -15% Combat Bonus.</Help>
+			<LostWithUpgrade>true</LostWithUpgrade>
+			<Sound>AS2D_IF_LEVELUP</Sound>
+			<CannotBeChosen>true</CannotBeChosen>
+			<NearbyEnemyCombatMod>-15</NearbyEnemyCombatMod>
+			<NearbyEnemyCombatRange>1</NearbyEnemyCombatRange>
+			<PortraitIndex>59</PortraitIndex>
+			<IconAtlas>ABILITY_ATLAS</IconAtlas>
+			<PediaType>PEDIA_ATTRIBUTES</PediaType>
+			<PediaEntry>TXT_KEY_PROMOTION_FEARED_ELEPHANT</PediaEntry>
+		</Row>
+	</UnitPromotions>
+</GameData>

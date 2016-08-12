@@ -1,0 +1,434 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Created by ModBuddy on 4/15/2013 2:41:58 PM -->
+<GameData>
+	<Diplomacy_Responses>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_FIRST_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_FIRSTGREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_DEFEATED</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_DEFEATED%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_GREETING_POLITE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_GREETING_POLITE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_GREETING_NEUTRAL_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_GREETING_NEUTRAL_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_HOSTILE_AGGRESSIVE_MILITARY_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_HOSTILE_AGGRESSIVE_MILITARY_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_GREETING_HOSTILE_HELLO</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_GREETING_HOSTILE_HELLO%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_EXPANSION_SERIOUS_WARNING</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_EXPANSION_SERIOUS_WARNING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_WARBLUFF</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_WARBLUFF%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_OPEN_WINWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_WINWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_LOSEWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_LOSEWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_OPEN_GREETING</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_GREETING%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_OPEN_TRADE_NEEDMORE_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_GOODBYE</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_GOODBYE%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_OPEN_TRADE_YES_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRADE_YES_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRADE_NO_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_TRADE_NO_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRIBUTE_YES_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRIBUTE_YES_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRIBUTE_NO_NEUTRAL</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRIBUTE_NO_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_DEMANDTRIBUTE_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_DEMANDTRIBUTE_NEUTRAL%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_AGREE_SHORT</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_AGREE_SHORT%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_DISAGREE_SHORT</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_DISAGREE_SHORT%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_LETSHEARIT</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_LETSHEARIT%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRADE_YES_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRADE_YES_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRADE_NO_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRADE_NO_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRIBUTE_YES_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRIBUTE_YES_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRIBUTE_NO_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRIBUTE_NO_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_DEMANDTRIBUTE_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRADEREQUEST_HAPPY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRADEREQUEST_HAPPY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRADE_YES_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRADE_YES_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRADE_NEEDMORE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRADE_NO_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRADE_NO_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRIBUTE_YES_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRIBUTE_YES_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_TRIBUTE_NO_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_TRIBUTE_NO_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_DEMANDTRIBUTE_ANGRY</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_DEMANDTRIBUTE_ANGRY%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_DECLAREWAR</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_DECLAREWAR%</Response>
+		</Row>
+		<Row LeaderType="LEADER_GALT">
+			<ResponseType>RESPONSE_ATTACKED</ResponseType>
+			<Response>TXT_KEY_LEADER_GALT_ATTACKED%</Response>
+		</Row>
+	</Diplomacy_Responses>
+	<Language_en_US>
+		<Row Tag="TXT_KEY_LEADER_GALT_DECLAREWAR_1">
+			<Text>I am no parasite. The people of Rapture will prove that they deserve all that you have through honourable combat.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_DEFEATED_1">
+			<Text>A man chooses. A slave obeys.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_FIRSTGREETING_1">
+			<Text>Greetings. I am John Galt, and I welcome you to these newly United States.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_FIRSTGREETING_2">
+			<Text>This is John Galt speaking - if you are a man of the mind, you have nothing to fear from us. Would you like a cigarette?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_GREETING_POLITE_HELLO_1">
+			<Text>Welcome, my friend.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_GREETING_POLITE_HELLO_2">
+			<Text>It's always a pleasure to greet another prime mover like yourself.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_GREETING_NEUTRAL_HELLO_1">
+			<Text>What brings you to Promethea today?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_GREETING_NEUTRAL_HELLO_2">
+			<Text>Welcome, as always, to Promethea.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_GREETING_HOSTILE_HELLO_1">
+			<Text>Ah. It's you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_GREETING_HOSTILE_HELLO_2">
+			<Text>Is there some reason you feel the need to be here?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GALT_HOSTILE_AGGRESSIVE_MILITARY_WARNING">
+			<Text>We have spotted your hordes roaming our lands - tell me, do you think to surprise us? You will find nothing here for the taking, altruist.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_GALT_EXPANSION_SERIOUS_WARNING">
+			<Text>If I were you, I would reconsider attempting to claim every bit of territory you lay eyes upon.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_OPEN_BORDERS_EXCHANGE">
+			<Text>Just as a nation thrives from economic freedom, our two nations may thrive from free movement across each others' borders. What say you?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_WARBLUFF_1">
+			<Text>Do not forget whom you address.</Text>
+		</Row>
+		<!--Gloats after winning a war -->
+		<Row Tag="TXT_KEY_LEADER_GALT_WINWAR_1">
+			<Text>No thug can loot a man of the mind indefinitely.</Text>
+		</Row>
+		<!--Submissive after losing a war -->
+		<Row Tag="TXT_KEY_LEADER_GALT_LOSEWAR_1">
+			<Text>You were lucky this time, parasite.</Text>
+		</Row>
+		<!--Neutral -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_GALT_GREETING_1">
+			<Text>Good day.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_GREETING_2">
+			<Text>Greetings.</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_GALT_GOODBYE_1">
+			<Text>Until we meet again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_GOODBYE_2">
+			<Text>Goodbye.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_YES_NEUTRAL">
+			<Text>A fine deal.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_NEUTRAL_1">
+			<Text>A little more would be perfect.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_NEUTRAL_2">
+			<Text>Can you do a little better?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_NEUTRAL_3">
+			<Text>That's not quite good enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_NEUTRAL_4">
+			<Text>Almost...</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NO_NEUTRAL">
+			<Text>I am not interested.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRIBUTE_YES_NEUTRAL">
+			<Text>Take it, you parasite, and may you be damned!</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRIBUTE_NO_NEUTRAL">
+			<Text>You expect me to give you what you do not deserve? How little you differ from the pervert who prowls the streets, looking for a victim he can ravish for his grotesque amusement.</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADEREQUEST_NEUTRAL">
+			<Text>Would you be interested in making a deal?</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_GALT_DEMANDTRIBUTE_NEUTRAL">
+			<Text>We take issue with your definition of property rights. I'm thinking we can rectify this - for a price.</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_GALT_AGREE_SHORT_1">
+			<Text>All right.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_AGREE_SHORT_2">
+			<Text>Ok.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_GALT_DISAGREE_SHORT_1">
+			<Text>I must refuse.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_DISAGREE_SHORT_2">
+			<Text>No.</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_GALT_LETSHEARIT_1">
+			<Text>Let's hear it.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_LETSHEARIT_2">
+			<Text>Go ahead.</Text>
+		</Row>
+
+		<!--Happy -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_GALT_GREETING_3">
+			<Text>Hello.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_GREETING_4">
+			<Text>Welcome.</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_GALT_GOODBYE_3">
+			<Text>Until we meet again.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_GOODBYE_4">
+			<Text>Farewell, friend.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_YES_HAPPY">
+			<Text>Perfect.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_HAPPY_1">
+			<Text>A bit more would be appropriate, I believe.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_HAPPY_2">
+			<Text>Surely you can't do a little better?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_HAPPY_3">
+			<Text>You're almost there...</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NO_HAPPY">
+			<Text>Thank you, but we'll pass.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRIBUTE_YES_HAPPY">
+			<Text>Here.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRIBUTE_NO_HAPPY">
+			<Text>You expect me to give you what you do not deserve!? How little you differ from the pervert who prowls the streets, looking for a victim he can ravish for his grotesque amusement.</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_GALT_DEMANDTRIBUTE_HAPPY">
+			<Text>We take issue with your definition of property rights. I'm thinking we can rectify this - for a price.</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADEREQUEST_HAPPY">
+			<Text>Two rational men can always come to an agreement - let us exemplify that principle with this trade deal.</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_GALT_AGREE_SHORT_3">
+			<Text>Certainly.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_GALT_DISAGREE_SHORT_3">
+			<Text>Certainly not.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_DISAGREE_SHORT_4">
+			<Text>That's not in our interest. No.</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_GALT_LETSHEARIT_3">
+			<Text>Go on.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_LETSHEARIT_4">
+			<Text>I'm listening.</Text>
+		</Row>
+		<!--Angry -->
+		<!--Greetings (subsequent meetings) -->
+		<Row Tag="TXT_KEY_LEADER_GALT_GREETING_5">
+			<Text>Oh, it's you.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_GREETING_6">
+			<Text>What do you want?</Text>
+		</Row>
+		<!--Goodbye -->
+		<Row Tag="TXT_KEY_LEADER_GALT_GOODBYE_5">
+			<Text>That is all.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_GOODBYE_6">
+			<Text>Remove yourself, you fool.</Text>
+		</Row>
+		<!--Trade offer from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_YES_ANGRY">
+			<Text>Deal.</Text>
+		</Row>
+		<!--Trade offer from player - sweeten the deal -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_ANGRY_1">
+			<Text>More!</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_ANGRY_2">
+			<Text>That's not good enough.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_ANGRY_3">
+			<Text>You must do better than that.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NEEDMORE_ANGRY_4">
+			<Text>Almost...</Text>
+		</Row>
+		<!--Trade offer from player - no -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADE_NO_ANGRY">
+			<Text>The answer is no.</Text>
+		</Row>
+		<!--Demand for tribute from player - yes -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRIBUTE_YES_ANGRY">
+			<Text>You may have the upper hand at the moment, but this will not always be the case, parasite.</Text>
+		</Row>
+		<!--Demand for tribute from player - no -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRIBUTE_NO_ANGRY">
+			<Text>You expect me to give you what you do not deserve? How little you differ from the pervert who prowls the streets, looking for a victim he can ravish for his grotesque amusement.</Text>
+		</Row>
+		<!--Demands tribute -->
+		<Row Tag="TXT_KEY_LEADER_GALT_DEMANDTRIBUTE_ANGRY">
+			<Text>I ask you for this not as a parasite asking for what he does not deserve, but as a giant asking whe he should not crush an ant.</Text>
+		</Row>
+		<!--Requests a trade -->
+		<Row Tag="TXT_KEY_LEADER_GALT_TRADEREQUEST_ANGRY">
+			<Text>This is better than you deserve.</Text>
+		</Row>
+		<!--Agrees -->
+		<Row Tag="TXT_KEY_LEADER_GALT_AGREE_SHORT_4">
+			<Text>Fine. Agreed.</Text>
+		</Row>
+		<!--Disagrees -->
+		<Row Tag="TXT_KEY_LEADER_GALT_DISAGREE_SHORT_5">
+			<Text>No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_DISAGREE_SHORT_6">
+			<Text>No.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_DISAGREE_SHORT_7">
+			<Text>You cannot be serious!</Text>
+		</Row>
+		<!--Let's hear it -->
+		<Row Tag="TXT_KEY_LEADER_GALT_LETSHEARIT_5">
+			<Text>Yes?</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_ATTACKED_1">
+			<Text>A parasite attempting to plunder his betters? How original.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_ATTACKED_2">
+			<Text>Promethea will triumph at all costs.</Text>
+		</Row>
+		<Row Tag="TXT_KEY_LEADER_GALT_ATTACKED_3">
+			<Text>What a fool you are.</Text>
+		</Row>
+	</Language_en_US>
+</GameData>

@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mod id="ec1b4bcf-5ed4-494e-8251-758cb8e0378f" version="1">
+  <Properties>
+    <Name>Atlas Shrugged -- John Galt and the Strikers</Name>
+    <Stability>Alpha</Stability>
+    <Teaser>N/A
+N/A</Teaser>
+    <Description>N/A
+N/A</Description>
+    <Authors>angamaiton</Authors>
+    <HideSetupGame>0</HideSetupGame>
+    <AffectsSavedGames>1</AffectsSavedGames>
+    <MinCompatibleSaveVersion>0</MinCompatibleSaveVersion>
+    <SupportsSinglePlayer>1</SupportsSinglePlayer>
+    <SupportsMultiplayer>1</SupportsMultiplayer>
+    <SupportsHotSeat>1</SupportsHotSeat>
+    <SupportsMac>1</SupportsMac>
+    <ReloadAudioSystem>0</ReloadAudioSystem>
+    <ReloadLandmarkSystem>0</ReloadLandmarkSystem>
+    <ReloadStrategicViewSystem>0</ReloadStrategicViewSystem>
+    <ReloadUnitSystem>0</ReloadUnitSystem>
+  </Properties>
+  <Dependencies>
+    <Dlc id="0E3751A1-F840-4e1b-9706-519BF484E59D" minversion="0" maxversion="999" />
+    <Dlc id="6DA07636-4123-4018-B643-6575B4EC336B" minversion="0" maxversion="999" />
+  </Dependencies>
+  <References />
+  <Blocks />
+  <Files>
+    <File md5="B35991EB03725533433067D4859D95E2" import="1">ART/Atlas_Promethea.xml</File>
+    <File md5="6663412D4E6F2D99C18A9B8D8E19EDA2" import="1">ART/DOM_Rapture.dds</File>
+    <File md5="9DD08C190260DF7DDCA195EEF8EA6255" import="1">ART/RaptureAlphaAtlas32.dds</File>
+    <File md5="683B8CE19478016F8A1F26CFA6C2EE3B" import="1">ART/RaptureIconAtlas128.dds</File>
+    <File md5="1702061F82DA232CD9BBF5F3480EF508" import="1">ART/RaptureIconAtlas214.dds</File>
+    <File md5="673AFEC83F7113733157BE768B943B13" import="1">ART/RaptureIconAtlas256.dds</File>
+    <File md5="A07DD22E64E2B19CF25FBE7F3897457E" import="1">ART/RaptureIconAtlas32.dds</File>
+    <File md5="0B80FF112ED58E0178A1F7263E5F9424" import="1">ART/RaptureIconAtlas45.dds</File>
+    <File md5="AF465B90FAA50ABA856D5B0DD59EAD92" import="1">ART/RaptureIconAtlas64.dds</File>
+    <File md5="B3E2C74BCB3CA9FA3DAA91BE77B73010" import="1">ART/RaptureIconAtlas80.dds</File>
+    <File md5="72EBE87379B97E6F4816F0069D241CF1" import="1">ART/Rapture_map.dds</File>
+    <File md5="DABFAFDF8A2607F17CDE474C9CAC5E89" import="1">ART/Galt_diplo.dds</File>
+    <File md5="807A619BB2CD8F92A0EA4CE378CA1875" import="1">ART/Galt_diplo.xml</File>
+    <File md5="248E5D27EEB77CE307216496887787CE" import="0">Music/Galt_Peace.mp3</File>
+    <File md5="32BFCEC3D09C343234297B2A126F13C2" import="0">Music/Galt_War.mp3</File>
+    <File md5="F2D53EBB0443562E5467827CE15ED605" import="0">XML/Buildings/Religious_Buildings_Promethea.xml</File>
+    <File md5="AF7D562DAA80A527B07CB410C6C12FBA" import="0">XML/Civilizations/City_Names_Promethea.xml</File>
+    <File md5="601F68265A8D2A6ABEF483A1481F255B" import="0">XML/Civilizations/Civ_Promethea.xml</File>
+    <File md5="8BA54AF45595E19F01BE0A8A312345E1" import="0">XML/Leaders/Leader_Galt.xml</File>
+    <File md5="E171DB8553D458708AA33178F10A1C9F" import="0">XML/Leaders/Trait_Only_Man.xml</File>
+    <File md5="8B34B0A050F3CFAB8A152747D83950F8" import="0">XML/Sounds/PrometheaMusic.xml</File>
+    <File md5="23CE02A99374B8FB9BE4846427417956" import="0">XML/Text/Civilopedia_Promethea.xml</File>
+    <File md5="359D035CDC17085927715422D024EFE8" import="0">XML/Text/Galt_Dialogue.xml</File>
+    <File md5="F6BBD2B281B419FE1EE4833A2624B35A" import="0">XML/Text/Galt_Diplomacy_Responses.xml</File>
+    <File md5="E1EDEE635813A89751537499E2090473" import="0">XML/Units/Unit_Big_Daddy.xml</File>
+    <File md5="E2F7E970CC8612144ACB4F13E33D17E0" import="0">XML/Units/Unit_Little_Sister.xml</File>
+  </Files>
+  <Actions>
+    <OnModActivated>
+      <UpdateDatabase>ART/Atlas_Promethea.xml</UpdateDatabase>
+      <UpdateDatabase>ART/Galt_diplo.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/City_Names_Promethea.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Civilizations/Civ_Promethea.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Leader_Galt.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Leaders/Trait_Only_Man.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Civilopedia_Promethea.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Galt_Dialogue.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Text/Galt_Diplomacy_Responses.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Unit_Little_Sister.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Units/Unit_Big_Daddy.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Buildings/Religious_Buildings_Promethea.xml</UpdateDatabase>
+      <UpdateDatabase>XML/Sounds/PrometheaMusic.xml</UpdateDatabase>
+    </OnModActivated>
+  </Actions>
+</Mod>
